@@ -1,7 +1,7 @@
 
 # Semester 4
 
-This repository contains the assignments, lecture notes and handouts for the course CS202: Mathematics For Computer Science - I, taken by Prof. Manindra Agarwal, during 2023 - II (Fall) Semester.
+This repository contains the assignments, lecture notes and handouts for the course CS202: Mathematics For Computer Science - I, taken by Prof. Manindra Agarwal, during 2023 - I (Fall) Semester.
 
 
 
